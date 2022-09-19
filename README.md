@@ -48,5 +48,5 @@ Clone the repo:
 git clone <repository url>
 ```
 
-### Start exploring
+### Start exploring!
 
