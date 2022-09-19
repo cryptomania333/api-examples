@@ -1,6 +1,6 @@
 <br>
 <h3 align="center">
-<p align="center"><a href="https://cryptowarp.io" target="_blank" rel="noopener noreferrer"><img width="100" src="https://cryptowarp.io/images/logo-100.png" alt="cryptowarp.io logo"></a></p>
+<p align="center"><a href="https://cryptowarp.io" target="_blank" rel="noopener noreferrer"><img width="100" src="images/logo.png" alt="cryptowarp.io logo"></a></p>
 <b>Cryptowarp.io</b>   REST API <b></b> <br>Bearer Authentication examples
 </h3>
 <p align="center">
