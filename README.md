@@ -35,12 +35,12 @@ To clone the examples, use the following command in a terminal.
 
 Create a new directory:
 ```bash
-mkdir criptowarpio_examples
+mkdir cryptowarpio_examples
 ```
 
 Change the directory path that you are working in:
 ```bash
-cd criptowarpio_examples
+cd cryptowarpio_examples
 ```
 
 Clone the repo:
